@@ -1,0 +1,12 @@
+com\ionos\iaas\service\VMService$1.class
+com\ionos\iaas\data\DataSet.class
+com\ionos\iaas\processor\MockedBackendProcessor.class
+com\ionos\iaas\model\Request.class
+com\ionos\iaas\model\Action.class
+com\ionos\iaas\model\Datacenter.class
+com\ionos\iaas\model\Item.class
+com\ionos\iaas\model\Server.class
+com\ionos\iaas\model\Storage.class
+com\ionos\iaas\model\ItemType.class
+com\ionos\iaas\processor\MockedBackendProcessor$1.class
+com\ionos\iaas\service\VMService.class
